@@ -1,0 +1,1280 @@
+Name: 100
+Description: Express yourself on the battlefield.
+ID: Emoji_100APlus
+
+Name: 1 HP
+Description: Express yourself on the battlefield.
+ID: Emoji_1HP
+
+Name: 200 IQ Play
+Description: Express yourself on the battlefield.
+ID: Emoji_200IQPlay
+
+Name: 200 Meters
+Description: Express yourself on the battlefield.
+ID: Emoji_200m
+
+Name: Four-leaf Clover
+Description: Express yourself on the battlefield.
+ID: Emoji_4LeafClover
+
+Name: Ace
+Description: Express yourself on the battlefield.
+ID: Emoji_Ace
+
+Name: Alarm
+Description: Express yourself on the battlefield.
+ID: Emoji_Alarm
+
+Name: Angel
+Description: Express yourself on the battlefield.
+ID: Emoji_Angel
+
+Name: Angry Volcano
+Description: Express yourself on the battlefield.
+ID: Emoji_AngryVolcano
+
+Name: A+
+Description: Express yourself on the battlefield.
+ID: Emoji_APlus
+
+Name: Flex
+Description: Express yourself on the battlefield.
+ID: Emoji_ArmFlex
+
+Name: Captain America’s Shield
+Description: Living legend.
+ID: Emoji_AshtonChicago
+
+Name: Thor’s Stormbreaker
+Description: Bring the thunder.
+ID: Emoji_AshtonTurbo
+
+Name: Awww
+Description: Express yourself on the battlefield.
+ID: Emoji_Awww
+
+Name: Ancient Mask
+Description: Express yourself on the battlefield.
+ID: Emoji_AztecMask
+
+Name: Baby Seal
+Description: Express yourself on the battlefield.
+ID: Emoji_BabySeal
+
+Name: Bad Apple
+Description: Express yourself on the battlefield.
+ID: Emoji_BadApple
+
+Name: Baited
+Description: Express yourself on the battlefield.
+ID: Emoji_Baited
+
+Name: Bananas
+Description: Express yourself on the battlefield.
+ID: Emoji_Banana
+
+Name: Bang!
+Description: Express yourself on the battlefield.
+ID: Emoji_Bang
+
+Name: Battle Bus
+Description: Express yourself on the battlefield.
+ID: Emoji_BattleBus
+
+Name: Fortnite Birthday!
+Description: Celebrate Fortnite's first birthday!
+ID: Emoji_Birthday2018
+
+Name: Birthday Cupcake
+Description: Express yourself on the battlefield.
+ID: Emoji_Birthday2019
+
+Name: Black Cat
+Description: Express yourself on the battlefield.
+ID: Emoji_BlackCat
+
+Name: Boogie Bomb
+Description: Express yourself on the battlefield.
+ID: Emoji_BoogieBomb
+
+Name: Boombox
+Description: Express yourself on the battlefield.
+ID: Emoji_Boombox
+
+Name: Bullseye
+Description: Express yourself on the battlefield.
+ID: Emoji_Bullseye
+
+Name: Bush
+Description: Express yourself on the battlefield.
+ID: Emoji_Bush
+
+Name: Lights, Camera, Action!
+Description: Express yourself on the battlefield.
+ID: Emoji_Camera
+
+Name: Camper
+Description: Express yourself on the battlefield.
+ID: Emoji_Camper
+
+Name: Celebrate
+Description: Express yourself on the battlefield.
+ID: Emoji_Celebrate
+
+Name: Chicken
+Description: Express yourself on the battlefield.
+ID: Emoji_Chicken
+
+Name: Clapping
+Description: Express yourself on the battlefield.
+ID: Emoji_Clapping
+
+Name: Clown
+Description: Express yourself on the battlefield.
+ID: Emoji_Clown
+
+Name: null
+Description: null
+ID: Emoji_Comm
+
+Name: Cool Pepper
+Description: Express yourself on the battlefield.
+ID: Emoji_CoolPepper
+
+Name: Crabby
+Description: Express yourself on the battlefield.
+ID: Emoji_Crabby
+
+Name: Crackshot
+Description: Express yourself on the battlefield.
+ID: Emoji_Crackshot
+
+Name: Cross Swords
+Description: Express yourself on the battlefield.
+ID: Emoji_CrossSwords
+
+Name: Cuddly
+Description: Express yourself on the battlefield.
+ID: Emoji_Cuddle
+
+Name: Cuddle Up
+Description: Express yourself on the battlefield.
+ID: Emoji_CuddleTeamHead
+
+Name: Deal With It
+Description: Express yourself on the battlefield.
+ID: Emoji_DealWithIt
+
+Name: Dance Party
+Description: Express yourself on the battlefield.
+ID: Emoji_Disco
+
+Name: DJ Yonder
+Description: Express yourself on the battlefield.
+ID: Emoji_DJYonder
+
+Name: Driftin'
+Description: Express yourself on the battlefield.
+ID: Emoji_DriftHead
+
+Name: Durrr!
+Description: Express yourself on the battlefield.
+ID: Emoji_DurrburgerHead
+
+Name: Durrr Burger
+Description: Express yourself on the battlefield.
+ID: Emoji_DurrrBurger
+
+Name: Dynamite
+Description: Express yourself on the battlefield.
+ID: Emoji_Dynamite
+
+Name: Embarrassed
+Description: Express yourself on the battlefield.
+ID: Emoji_Embarrassed
+
+Name: Exclamation
+Description: Express yourself on the battlefield.
+ID: Emoji_Exclamation
+
+Name: Explosion
+Description: Express yourself on the battlefield.
+ID: Emoji_Explosion
+
+Name: Fiery
+Description: Express yourself on the battlefield.
+ID: Emoji_Fiery
+
+Name: Fist Bump
+Description: Express yourself on the battlefield.
+ID: Emoji_FistBump
+
+Name: F
+Description: Express yourself on the battlefield.
+ID: Emoji_FKey
+
+Name: Flaming Rage
+Description: Express yourself on the battlefield.
+ID: Emoji_FlamingRage
+
+Name: Foam Finger
+Description: Express yourself on the battlefield.
+ID: Emoji_FoamFinger
+
+Name: Eek!
+Description: Express yourself on the battlefield.
+ID: Emoji_Fortnitemares
+
+Name: GG
+Description: Express yourself on the battlefield.
+ID: Emoji_GG
+
+Name: GG Jellyfish
+Description: Express yourself on the battlefield.
+ID: Emoji_GGJellyfish
+
+Name: GG Wreath
+Description: Express yourself on the battlefield.
+ID: Emoji_GGWreath
+
+Name: Ghost
+Description: Express yourself on the battlefield.
+ID: Emoji_Ghost
+
+Name: Ginger Gunner
+Description: Express yourself on the battlefield.
+ID: Emoji_GingerbreadHappy
+
+Name: Merry Marauder
+Description: Express yourself on the battlefield.
+ID: Emoji_GingerbreadMad
+
+Name: Go
+Description: Express yourself on the battlefield.
+ID: Emoji_Go
+
+Name: Good Game
+Description: Express yourself on the battlefield.
+ID: Emoji_GoodGame
+
+Name: Headshot
+Description: Express yourself on the battlefield.
+ID: Emoji_Headshot
+
+Name: Heartbroken
+Description: Express yourself on the battlefield.
+ID: Emoji_Heartbroken
+
+Name: Heart Hands
+Description: Express yourself on the battlefield.
+ID: Emoji_HeartHands
+
+Name: Hoarder
+Description: Express yourself on the battlefield.
+ID: Emoji_Hoarder
+
+Name: Hot Chocolate
+Description: Express yourself on the battlefield.
+ID: Emoji_HotChocolate
+
+Name: Hot Dawg
+Description: Express yourself on the battlefield.
+ID: Emoji_HotDawg
+
+Name: Amazed
+Description: Express yourself on the battlefield.
+ID: Emoji_HuskWow
+
+Name: Icy Heart
+Description: Express yourself on the battlefield.
+ID: Emoji_IceHeart
+
+Name: In Love
+Description: Express yourself on the battlefield.
+ID: Emoji_InLove
+
+Name: I See You
+Description: Express yourself on the battlefield.
+ID: Emoji_ISeeYou
+
+Name: Kaboom
+Description: Express yourself on the battlefield.
+ID: Emoji_Kaboom
+
+Name: Life Preserver
+Description: Express yourself on the battlefield.
+ID: Emoji_LifePreserver
+
+Name: LOL
+Description: Express yourself on the battlefield.
+ID: Emoji_LOL
+
+Name: Love Ranger
+Description: Express yourself on the battlefield.
+ID: Emoji_LoveRanger
+
+Name: Lucky
+Description: Express yourself on the battlefield.
+ID: Emoji_Lucky
+
+Name: Majestic
+Description: Express yourself on the battlefield.
+ID: Emoji_Majestic
+
+Name: MEEET
+Description: Express yourself on the battlefield.
+ID: Emoji_Meet
+
+Name: Mistletoe
+Description: Express yourself on the battlefield.
+ID: Emoji_Mistletoe
+
+Name: Mittens
+Description: Express yourself on the battlefield.
+ID: Emoji_Mittens
+
+Name: MVP
+Description: Express yourself on the battlefield.
+ID: Emoji_MVP
+
+Name: #1
+Description: Express yourself on the battlefield.
+ID: Emoji_Number1
+
+Name: Octo-Pirate
+Description: Express yourself on the battlefield.
+ID: Emoji_OctoPirate
+
+Name: On Fire
+Description: Express yourself on the battlefield.
+ID: Emoji_OnFire
+
+Name: Palm Tree
+Description: Express yourself on the battlefield.
+ID: Emoji_PalmTree
+
+Name: Peace
+Description: Express yourself on the battlefield.
+ID: Emoji_PeaceSign
+
+Name: Penguin
+Description: Express yourself on the battlefield.
+ID: Emoji_Penguin
+
+Name: Pickaxe
+Description: Express yourself on the battlefield.
+ID: Emoji_PickAxe
+
+Name: Pizza
+Description: Express yourself on the battlefield.
+ID: Emoji_Pizza
+
+Name: Placeholder
+Description: Express yourself on the battlefield.
+ID: Emoji_Placeholder
+
+Name: Plotting
+Description: Express yourself on the battlefield.
+ID: Emoji_Plotting
+
+Name: Plunger
+Description: Express yourself on the battlefield.
+ID: Emoji_Plunger
+
+Name: Pool Party
+Description: Express yourself on the battlefield.
+ID: Emoji_PoolParty
+
+Name: Popcorn
+Description: Express yourself on the battlefield.
+ID: Emoji_Popcorn
+
+Name: Positivity
+Description: Have a phenomenal gaming experience!
+ID: Emoji_Positivity
+
+Name: Potato Aim
+Description: Express yourself on the battlefield.
+ID: Emoji_PotatoAim
+
+Name: Shield Potion
+Description: Express yourself on the battlefield.
+ID: Emoji_Potion
+
+Name: Pot of Gold
+Description: Express yourself on the battlefield.
+ID: Emoji_PotOfGold
+
+Name: Prickly
+Description: Express yourself on the battlefield.
+ID: Emoji_Prickly
+
+Name: Rabid
+Description: Express yourself on the battlefield.
+ID: Emoji_Rabid
+
+Name: Rage
+Description: Express yourself on the battlefield.
+ID: Emoji_Rage
+
+Name: Rainbow
+Description: Express yourself on the battlefield.
+ID: Emoji_Rainbow
+
+Name: Red Knight
+Description: Express yourself on the battlefield.
+ID: Emoji_RedKnight
+
+Name: Rekt
+Description: Express yourself on the battlefield.
+ID: Emoji_Rekt
+
+Name: Rex Roar
+Description: Express yourself on the battlefield.
+ID: Emoji_RexHead
+
+Name: RIP
+Description: Express yourself on the battlefield.
+ID: Emoji_RIP
+
+Name: Let's Rock
+Description: Express yourself on the battlefield.
+ID: Emoji_Rock
+
+Name: Rocket Ride
+Description: Express yourself on the battlefield.
+ID: Emoji_RocketRide
+
+Name: Let's Rock
+Description: Express yourself on the battlefield.
+ID: Emoji_RockOn
+
+Name: Rust Lord
+Description: Express yourself on the battlefield.
+ID: Emoji_RustLord
+
+Name: Season Level 100
+Description: Recognition for reaching Season Level 100 in Battle Royale Season X.
+ID: Emoji_S10Lvl100
+
+Name: Checkered Flag
+Description: Express yourself on the battlefield.
+ID: Emoji_S11_CheckeredFlag
+
+Name: Headshot
+Description: Express yourself on the battlefield.
+ID: Emoji_S11_Headshot
+
+Name: Hot Drop
+Description: Express yourself on the battlefield.
+ID: Emoji_S11_HotDrop
+
+Name: Kiss
+Description: Express yourself on the battlefield.
+ID: Emoji_S11_Kiss
+
+Name: No Scope
+Description: Express yourself on the battlefield.
+ID: Emoji_S11_NoScope
+
+Name: Slurp GG
+Description: Express yourself on the battlefield.
+ID: Emoji_S11_SlurpGG
+
+Name: Bundle Up
+Description: Express yourself on the battlefield.
+ID: Emoji_S11_Sweater
+
+Name: U-Turn
+Description: Express yourself on the battlefield.
+ID: Emoji_S11_UTurn
+
+Name: Wink
+Description: Express yourself on the battlefield.
+ID: Emoji_S11_Wink
+
+Name: Snow Strike
+Description: Express yourself on the battlefield.
+ID: Emoji_S11_WinterSnowball
+
+Name: Ollie Away!
+Description: Express yourself on the battlefield.
+ID: Emoji_S12_AdventureGirl
+
+Name: SHADOW
+Description: Express yourself on the battlefield.
+ID: Emoji_S12_Alter
+
+Name: Banana Badge
+Description: Express yourself on the battlefield.
+ID: Emoji_S12_BananaAgent
+
+Name: GHOST
+Description: Express yourself on the battlefield.
+ID: Emoji_S12_Ego
+
+Name: Championship 2020
+Description: Express yourself on the battlefield.
+ID: Emoji_S12_FNCS
+
+Name: Meow
+Description: Express yourself on the battlefield.
+ID: Emoji_S12_Meowscles
+
+Name: Golden Vision
+Description: Express yourself on the battlefield.
+ID: Emoji_S12_Midas
+
+Name: Cuff 'em
+Description: Express yourself on the battlefield.
+ID: Emoji_S12_SkullDude
+
+Name: Heartblast
+Description: Express yourself on the battlefield.
+ID: Emoji_S12_TNTina
+
+Name: Knight Slice
+Description: Express yourself on the battlefield.
+ID: Emoji_S13_BlackKnight
+
+Name: FNCS 2:3 Emoticon
+Description: Champion Series CH2 - S3
+ID: Emoji_S13_FNCS
+
+Name: Ohm's Revenge
+Description: Express yourself on the battlefield.
+ID: Emoji_S13_MechanicalEngineer
+
+Name: Orienteer
+Description: Express yourself on the battlefield.
+ID: Emoji_S13_OceanRider
+
+Name: Cloud Cat
+Description: Express yourself on the battlefield.
+ID: Emoji_S13_ProfessorPup
+
+Name: Eternal Bloom
+Description: Express yourself on the battlefield.
+ID: Emoji_S13_RacerZero
+
+Name: Sea Shaka
+Description: Express yourself on the battlefield.
+ID: Emoji_S13_SandCastle
+
+Name: Sharkmarine
+Description: Express yourself on the battlefield.
+ID: Emoji_S13_TacticalScuba
+
+Name: Cupcake!
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_3rd_Birthday
+
+Name: The Crown
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_BestFriends
+
+Name: Big Bomb
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_Bomb
+
+Name: Rainbowfly
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_Butterfly
+
+Name: Cupcake
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_Cupcake
+
+Name: Disguise
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_Disguise
+
+Name: Bonedog
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_DogAndBones
+
+Name: Super Ducky
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_Ducky
+
+Name: Red Cyclo
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_Fire
+
+Name: Fish Funk
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_FishBone
+
+Name: Acrid
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_Flask
+
+Name: The Fly
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_Fly
+
+Name: Nightmare
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_GreenSkull
+
+Name: Subatomic
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_Molecule
+
+Name: Cyclo Swirl
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_PinkArrow
+
+Name: Snail
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_Snail
+
+Name: Mighty Spider
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_Spider
+
+Name: Taco!
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_Taco
+
+Name: 'Brella Fire
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_Umbrella
+
+Name: Blue Cyclo
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_Water
+
+Name: Web
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Elastic_Web
+
+Name: FNCS 2:4
+Description: Champion Series CH2 - S4
+ID: Emoji_S14_FNCS
+
+Name: Ghosts of the Past
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Fortnitemares2020
+
+Name: Bobo's Watching
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_FortnitemaresMonkeyToy
+
+Name: Doom Juice
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_HighTowerDate
+
+Name: Grootling
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_HighTowerGrape
+
+Name: Gamma Flex
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_HighTowerHoneyDew
+
+Name: Mystique Sneak
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_HighTowerMango
+
+Name: Storm Warning
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_HighTowerSquash
+
+Name: Asgardian
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_HighTowerTapas
+
+Name: Tony-Approved
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_HighTowerTomato
+
+Name: Weapon X
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_HighTowerWasabi
+
+Name: Horseshoe
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Horseshoe
+
+Name: King Of The Hill
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_KingOfTheHill
+
+Name: Llama Surprise
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_LlamaSurprise
+
+Name: Medalist
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_Medal
+
+Name: What?
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_PS_PlusPack_11
+
+Name: Reboot
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_RebootAFriend
+
+Name: Rocket League
+Description: Express yourself on the battlefield.
+ID: Emoji_S14_RLxFN
+
+Name: Victory Laurels
+Description: Express yourself on the battlefield.
+ID: Emoji_S15_AncientGladiator
+
+Name: The Child
+Description: Express yourself on the battlefield.
+ID: Emoji_S15_CosmosA
+
+Name: This is the way
+Description: Express yourself on the battlefield.
+ID: Emoji_S15_CosmosB
+
+Name: Stacks
+Description: Express yourself on the battlefield.
+ID: Emoji_S15_Flapjack
+
+Name: FNCS 2:5
+Description: Champion Series CH2 - S5.
+ID: Emoji_S15_FNCS
+
+Name: Trinity Trooper Impact
+Description: Express yourself on the battlefield.
+ID: Emoji_S15_FuturePink
+
+Name: Trinity Trooper Overload
+Description: Express yourself on the battlefield.
+ID: Emoji_S15_FuturePinkOrange
+
+Name: Assassin Unknown
+Description: Express yourself on the battlefield.
+ID: Emoji_S15_FutureSamurai
+
+Name: Snowblaster
+Description: Express yourself on the battlefield.
+ID: Emoji_S15_Holiday2
+
+Name: GG Fresh
+Description: Express yourself on the battlefield.
+ID: Emoji_S15_Holiday3
+
+Name: Fish Fest
+Description: Express yourself on the battlefield.
+ID: Emoji_S15_Holidays2020
+
+Name: Oh no!
+Description: Express yourself on the battlefield.
+ID: Emoji_S15_Lexa
+
+Name: Plasma Caster Reticle
+Description: Express yourself on the battlefield.
+ID: Emoji_S15_Nightmare
+
+Name: Last Round
+Description: Express yourself on the battlefield.
+ID: Emoji_S15_PS_PlusPack_2021
+
+Name: Rgr
+Description: Express yourself on the battlefield.
+ID: Emoji_S15_SpaceFighter
+
+Name: Perfect Match
+Description: Express yourself on the battlefield.
+ID: Emoji_S15_Valentines2021
+
+Name: Jonesin'
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_AgentJonesy
+
+Name: Bananope
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_Alt_1
+
+Name: Miss Fish
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_Alt_2
+
+Name: Stealth Shot
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_Bicycle
+
+Name: Spinner Takes All
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_Bicycle2
+
+Name: Happy Cat
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_BuffCat
+
+Name: Eggy
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_ChickenWarrior
+
+Name: Quite Curious
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_CubeNinja
+
+Name: Skully Shout
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_DinoHunter
+
+Name: Giddy Syrup
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_FlapjackWrangler
+
+Name: Championship 2021
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_FNCS
+
+Name: Enlightened Warrior
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_MaskedWarrior
+
+Name: Power of Azarath
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_Obsidian
+
+Name: Spire Spirit
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_Sentinel
+
+Name: Little Bird
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_Temple
+
+Name: Big Brain
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_AlienTrooper
+
+Name: Star Seer
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Alt_1
+
+Name: Eeeeh...
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Alt_2
+
+Name: Big Heff
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_AngryCow
+
+Name: Fever Dream
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Antique
+
+Name: Alie-yum
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Believer
+
+Name: Call to Action
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Emperor
+
+Name: Mlem
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Faux
+
+Name: Bonfire
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Fest
+
+Name: High Three!
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_FNCS
+
+Name: Buff Bash
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_FNCS_AllStars
+
+Name: Outer Space Handshake
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_FriendFrenzy
+
+Name: Just Between Us
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_ImposterWink
+
+Name: On the Rise
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Island
+
+Name: Almost There!
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_ReferAfriendTaxi
+
+Name: Cloudy Kitty
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_RiftTour
+
+Name: * BUURRRPP *
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Ruckus
+
+Name: Winner's Cup
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Soccer
+
+Name: Happy Patty
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_StreamElementsBeefBoss
+
+Name: Record Scratch
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_StreamElementsDJ
+
+Name: Peely Parade
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_StreamElementsPeely
+
+Name: Whaaa?!
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_StreamElementsRaptor
+
+Name: Wet 'n Weepy
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_StreamElementsSlurpMonster
+
+Name: Stellar Sipper
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Summer2021
+
+Name: Toon Talkin'
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_AnimToonFishstick
+
+Name: Blaargh!
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_CerealBox
+
+Name: I'm Here!
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_Clash
+
+Name: Different Tasty Snack
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ClashV_I1DF9
+
+Name: Last Cube Standing
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_CubeQueen
+
+Name: Dualies
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_Division
+
+Name: Skrrt
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_DriftDash
+
+Name: 4? Score!
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_FNBirthday_G7ZPV
+
+Name: FNCS 2:8
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_FNCS
+
+Name: Ghoul-d Game
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_FortnitemaresCup
+
+Name: Sad Sakura
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_F_Headband_S
+
+Name: Ghostly Watcher
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_GhostHunter
+
+Name: Divined Victory
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_GrandRoyaleCompetition
+
+Name: Happy Naruto
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_Headband
+
+Name: Shocked Kakashi
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_Headband_K
+
+Name: Angry Sasuke
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_Headband_S
+
+Name: Buono
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_Italian
+
+Name: Spirit Eyes
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_PunkKoi
+
+Name: Skulluminated
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_RenegadeSkull
+
+Name: What's Wrong, Toona Fish?
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_SadToonFishstick
+
+Name: Call Me J.B.
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_SpaceChimp
+
+Name: Watch Out, Toona Fish!
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_TeriyakiFishToon
+
+Name: Bonenana
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Banana
+
+Name: Maceball Bats
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_BaseballBats
+
+Name: Brain Food
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Brain
+
+Name: Grrr Burger
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Burger
+
+Name: Foul Fowl
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Duck
+
+Name: Eye Scream
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Eye
+
+Name: Creepin' Along
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_FingerWalk
+
+Name: Good Grave
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_GG
+
+Name: Undead Digits
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Hand
+
+Name: Jonezombie
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Head
+
+Name: Punky
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Pumpkin
+
+Name: Dual Reaper
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Scythe
+
+Name: Ooze Z
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Z
+
+Name: It's perfect!
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_AnimWinterFest2021
+
+Name: Back 'n' Better
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_BuffLlama
+
+Name: Jolly Ball
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_Gumball
+
+Name: Fox Flair
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_IslandNomad
+
+Name: Ronin Flame
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_LoneWolf
+
+Name: Horned Heart
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_Motorcyclist
+
+Name: Spidey Senses Tingling!
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_ParallelSenses
+
+Name: Thwip thwip!
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_ParallelSling
+
+Name: Foundation's Fortune
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_Turtleneck
+
+Name: Ol' Cracky
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_WinterFestCreative
+
+Name: Season Level 100
+Description: Recognition for reaching Season Level 100 in Battle Royale Season 6.
+ID: Emoji_S6Lvl100
+
+Name: Season Level 100
+Description: Recognition for reaching Season Level 100 in Battle Royale Season 7.
+ID: Emoji_S7Lvl100
+
+Name: Season Level 100
+Description: Recognition for reaching Season Level 100 in Battle Royale Season 8.
+ID: Emoji_S8Lvl100
+
+Name: Season Level 100
+Description: Recognition for reaching Season Level 100 in Battle Royale Season 9.
+ID: Emoji_S9Lvl100
+
+Name: Salty
+Description: Express yourself on the battlefield.
+ID: Emoji_Salty
+
+Name: Wukong
+Description: Express yourself on the battlefield.
+ID: Emoji_ScreamingWukong
+
+Name: ...
+Description: Express yourself on the battlefield.
+ID: Emoji_SilentMaven
+
+Name: Skeptical
+Description: Express yourself on the battlefield.
+ID: Emoji_SkepticalFishstix
+
+Name: Skully
+Description: Express yourself on the battlefield.
+ID: Emoji_SkullBrite
+
+Name: Skull Trooper
+Description: Express yourself on the battlefield.
+ID: Emoji_Skulltrooper
+
+Name: Snowflake
+Description: Express yourself on the battlefield.
+ID: Emoji_Snowflake
+
+Name: Snowman
+Description: Express yourself on the battlefield.
+ID: Emoji_Snowman
+
+Name: Sparkle Specialist
+Description: Express yourself on the battlefield.
+ID: Emoji_SparkleSpecialist
+
+Name: Spicy
+Description: Express yourself on the battlefield.
+ID: Emoji_Spicy
+
+Name: Stealthy
+Description: Express yourself on the battlefield.
+ID: Emoji_Stealthy
+
+Name: Stinky
+Description: Express yourself on the battlefield.
+ID: Emoji_Stinky
+
+Name: Stop
+Description: Express yourself on the battlefield.
+ID: Emoji_Stop
+
+Name: Storm
+Description: Express yourself on the battlefield.
+ID: Emoji_Storm
+
+Name: Sucker
+Description: Express yourself on the battlefield.
+ID: Emoji_Sucker
+
+Name: Perfect Blend
+Description: So smooth. So cool.
+ID: Emoji_SummerDays
+
+Name: Sunshine
+Description: Express yourself on the battlefield.
+ID: Emoji_Sun
+
+Name: IDK
+Description: Express yourself on the battlefield.
+ID: Emoji_SupDood
+
+Name: Sweaty
+Description: Express yourself on the battlefield.
+ID: Emoji_Sweaty
+
+Name: Tasty
+Description: Express yourself on the battlefield.
+ID: Emoji_Tasty
+
+Name: Tattered
+Description: Express yourself on the battlefield.
+ID: Emoji_Tattered
+
+Name: Teamwork
+Description: Express yourself on the battlefield.
+ID: Emoji_Teamwork
+
+Name: Flail
+Description: Flail away!
+ID: Emoji_TechOpsBlue
+
+Name: Teknique
+Description: Express yourself on the battlefield.
+ID: Emoji_Teknique
+
+Name: Thief
+Description: Express yourself on the battlefield.
+ID: Emoji_Thief
+
+Name: Thumbs Down
+Description: Express yourself on the battlefield.
+ID: Emoji_ThumbsDown
+
+Name: Thumbs Up
+Description: Express yourself on the battlefield.
+ID: Emoji_ThumbsUp
+
+Name: Tomatohead
+Description: Express yourself on the battlefield.
+ID: Emoji_TomatoHead
+
+Name: TP
+Description: Express yourself on the battlefield.
+ID: Emoji_TP
+
+Name: Trap
+Description: Express yourself on the battlefield.
+ID: Emoji_Trap
+
+Name: Victory Royale
+Description: Express yourself on the battlefield.
+ID: Emoji_VictoryRoyale
+
+Name: Surrender
+Description: Express yourself on the battlefield.
+ID: Emoji_WhiteFlag
+
+Name: GG Potion
+Description: Express yourself on the battlefield.
+ID: Emoji_WitchsBrew
+
+Name: Wow
+Description: Express yourself on the battlefield.
+ID: Emoji_Wow
+
+Name: ZZZ
+Description: Express yourself on the battlefield.
+ID: Emoji_ZZZ
+
