@@ -95,6 +95,18 @@ git clone https://github.com/RockyHubDev/TryBotX.git
 node index.js
 ```
 
+## 🤖 Commands 
+
+/skin name → Change skin
+/backpack name → Change backpack
+/pickaxe name → Change pickaxe
+/glider name → Change glider
+/emote name → Perform emote
+/level number → Change level
+/dance → Enable/disable continuous dance
+/default → Restore default configuration
+
+
 ---
 
 ## 📜 Credits - DeviceAuthGenerator
