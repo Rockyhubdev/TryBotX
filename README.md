@@ -56,7 +56,7 @@ DEVICE_AUTH_DEVICE_ID=xxx
 DEVICE_AUTH_SECRET=xxx
 ```
 
-You can generate the required deadside credentials using the built-in DeadsideAuthGenerator.exe.
+You can generate the required deadside credentials using the built-in DeviceAuthGenerator.exe.
 
 ---
 
@@ -75,7 +75,7 @@ git clone https://github.com/RockyHubDev/TryBotX.git
  npm install
 ```
 
-3. Configure the .env file with your Epic account credentials and DeadsideAuth keys.
+3. Configure the .env file with your Epic account credentials and DeviceAuthGenerator keys.
 
 4. To generate the auth keys:
 
@@ -94,6 +94,20 @@ git clone https://github.com/RockyHubDev/TryBotX.git
 ```bash
 node index.js
 ```
+
+---
+
+## 📜 Credits - DeviceAuthGenerator
+This project uses [DeviceAuthGenerator](https://github.com/xMistt/DeviceAuthGenerator) to generate device authentication credentials for Epic Games accounts.
+DeviceAuthGenerator was created by Oli (xMistt) and is licensed under:
+
+Apache License 2.0 with the Commons Clause v1.0
+
+Copyright © Oli 2019–2021
+
+Important restrictions:
+This software may not be sold or used as the basis for commercial products or services. The value of this project must not depend primarily on DeviceAuthGenerator’s functionality.
+For full details, please refer to the official:
 
 ---
 
