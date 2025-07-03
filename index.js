@@ -3,7 +3,7 @@ require('dotenv').config();
 const { Client } = require('fnbr');
 const fetch = require('node-fetch');
 
-const OWNER_USERNAME = 'Rocky_Golpe';
+const OWNER_USERNAME = process.env.OWNER_USERNAME;
 const DEFAULTS = {
   skin: 'CID_452_Athena_Commando_F_CyberFu',
   backpack: 'BID_270_StreetDemon',
