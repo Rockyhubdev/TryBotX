@@ -116,12 +116,12 @@ To change it, open `index.js` and look for this block:
 
 ```js
 const DEFAULTS = {
-  skin: "Hades",
-  backpack: "Snakebite Keyring",
-  pickaxe: "Hadean Key",
-  emote: "Jiggle Jiggle",
-  glider: "Illusory Plume",
-  level: 9831
+  skin: 'M_MED_DarkStance_Pater',
+  backpack: 'BID_270_StreetDemon',
+  pickaxe: 'HalloweenScythe',
+  glider: 'Umbrella_Season_09',
+  emote: 'EID_TakeTheL',
+  level: 9999
 };
 ```
 
