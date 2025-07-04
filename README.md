@@ -4,18 +4,22 @@
 
 ---
 
-**TryBotX** is a customizable Fortnite cosmetic bot that can be used for fun or personal projects. This bot allows you to change skins, backpacks, pickaxes, gliders, emotes, and level using official Fortnite cosmetic IDs. It is designed to run using your own Epic Games account configured as a bot.
+# TryBotX
+
+**TryBotX** is a customizable Fortnite cosmetic bot for personal use and fun experiments. It allows you to change your cosmetics (skin, back bling, pickaxe, glider, emote, and level) using official Fortnite cosmetic IDs. The bot runs locally on your machine and uses your own Epic Games account.
+
+> ⚠️ We are **not affiliated with Epic Games**. This is a **community-made bot** for private use only. Use responsibly.
 
 ---
 
 ## 🔧 Features
 
-- Set default cosmetics: skin, pickaxe, emote, backpack, glider, and more
-- Custom bot username
-- Use your own Epic account credentials securely via `.env`
-- Organized cosmetic ID system
-- Light-weight and easy to edit
-- Future support for community-made mods (planned)
+- Change cosmetics in real-time using chat commands  
+- Set default configuration for all cosmetics  
+- Editable `.env` file for personal setup  
+- Lightweight and easy to configure  
+- Works locally with your Epic account  
+- Owner-only control (only one person can send commands)
 
 ---
 
@@ -24,143 +28,155 @@
 ```bash
 TryBotX/
 │
-├── .env                          # Editable - contains account credentials and bot owner info
-├── index.js                      # Editable - main script for setting default cosmetics
-├── Fortnite-Cosmetics-IDs-main/  # Editable - contains all cosmetic IDs and a token generator
+├── .env                          # Editable – your bot credentials and owner info
+├── index.js                      # Editable – main bot script
+├── Fortnite-Cosmetics-IDs-main/  # Editable – cosmetic IDs and auth tool
 │   ├── skins-IDs.txt
 │   ├── pickaxes-IDs.txt
 │   ├── emotes-IDs.txt
 │   ├── backpacks-IDs.txt
-│   └── DeviceAuthGenerator.exe  # Used to extract auth tokens from Epic Games Launcher
+│   └── DeviceAuthGenerator.exe  # Tool to generate Epic Games device auth
 │
-├── node_modules/                 # ⚠️ DO NOT EDIT
-├── package.json                  # ⚠️ DO NOT EDIT
-├── package-lock.json             # ⚠️ DO NOT EDIT
-└── .venv/ (if exists)            # ⚠️ DO NOT EDIT
-```
+├── node_modules/                 # ⚠️ Do not edit
+├── package.json                  # ⚠️ Do not edit
+├── package-lock.json             # ⚠️ Do not edit
+└── .venv/ (if present)           # ⚠️ Do not edit
+````
 
 ---
 
 ## 🧪 Requirements
 
- -Node.js installed
-
- -Epic Games Launcher installed
-
- -Bot account added and logged in to Epic Games Launcher
-
- -A .env file correctly filled with:
+* [Node.js](https://nodejs.org/) installed
+* Epic Games Launcher installed
+* A secondary Epic Games account for the bot (logged in)
+* `.env` file filled like this:
 
 ```env
 FORTNITE_EMAIL=your_email@domain.com
 FORTNITE_PASSWORD=your_password
-OWNER_USERNAME=YourEpicUsername
-DEVICE_AUTH_ACCOUNT_ID=xxx
-DEVICE_AUTH_DEVICE_ID=xxx
-DEVICE_AUTH_SECRET=xxx
+OWNER_USERNAME=YourEpicGamesUsername
+DEVICE_AUTH_ACCOUNT_ID=xxxxxxxx
+DEVICE_AUTH_DEVICE_ID=xxxxxxxx
+DEVICE_AUTH_SECRET=xxxxxxxx
 ```
 
-You can generate the required deadside credentials using the built-in DeviceAuthGenerator.exe.
+* Use `DeviceAuthGenerator.exe` from the `Fortnite-Cosmetics-IDs-main/` folder to get these values.
+
+* `OWNER_USERNAME` should be your Epic Games username. Only this user can control the bot using commands.
 
 ---
 
-## 🚀 How to Run the Bot
+## 🚀 Getting Started
 
-> Make sure you have [Node.js](https://nodejs.org/) installed and Epic Games Launcher is open with the bot account logged in.
+1. Clone this repository:
 
-1. Download or clone this repository:
 ```bash
 git clone https://github.com/RockyHubDev/TryBotX.git
 ```
 
-2. Open a terminal inside the project folder and install the dependencies:
+2. Install required modules:
 
- ```bash
- npm install
+```bash
+npm install
 ```
 
-3. Configure the .env file with your Epic account credentials and DeviceAuthGenerator keys.
+3. Run the `DeviceAuthGenerator.exe` and copy the generated values into `.env`.
 
-4. To generate the auth keys:
-
- -Make sure your bot account is logged in to the Epic Games Launcher.
-
- -Open the folder Fortnite-Cosmetics-IDs-main.
-
- -Run the program:
- 
-    DeviceAuthGenerator.exe
- 
- -Copy and paste the values into the .env file.
-
-5. Finally, start the bot:
+4. Launch the bot:
 
 ```bash
 node index.js
 ```
 
-## 🤖 Commands 
+---
 
-/skin name → Change skin
+## 🤖 Commands
 
-/backpack name → Change backpack
+You can send these commands **only from the account defined in `OWNER_USERNAME`** inside your `.env` file:
 
-/pickaxe name → Change pickaxe
-
-/glider name → Change glider
-
-/emote name → Perform emote
-
-/level number → Change level
-
-/dance → Enable/disable continuous dance
-
-/default → Restore default configuration
-
+| Command          | Description              |
+| ---------------- | ------------------------ |
+| `/skin ID`       | Change skin              |
+| `/backpack ID`   | Change back bling        |
+| `/pickaxe ID`    | Change pickaxe           |
+| `/glider ID`     | Change glider            |
+| `/emote ID`      | Perform emote            |
+| `/level NUMBER`  | Change level             |
+| `/dance ID`      | Makes the emote you selected  |
+| `/default`       | Reset to default loadout |
 
 ---
 
-## 📜 Credits - DeviceAuthGenerator
-This project uses [DeviceAuthGenerator](https://github.com/xMistt/DeviceAuthGenerator) to generate device authentication credentials for Epic Games accounts.
-DeviceAuthGenerator was created by Oli (xMistt) and is licensed under:
+## ⚙️ Default Configuration
 
-Apache License 2.0 with the Commons Clause v1.0
+The `/default` command applies a preset defined in the code.
 
-Copyright © Oli 2019–2021
+To change it, open `index.js` and look for this block:
 
-Important restrictions:
-This software may not be sold or used as the basis for commercial products or services. The value of this project must not depend primarily on DeviceAuthGenerator’s functionality.
-For full details, please refer to the official:
+```js
+const DEFAULTS = {
+  skin: "Hades",
+  backpack: "Snakebite Keyring",
+  pickaxe: "Hadean Key",
+  emote: "Jiggle Jiggle",
+  glider: "Illusory Plume",
+  level: 9831
+};
+```
+
+* `OWNER_USERNAME` should be your Epic Games username. Only this user can control the bot using commands.
+
+---
+
+## ⚠️ Precautions and Disclaimers
+
+* ❗ This bot is **not safe for public matches**. Use it **only in private or creative lobbies**.
+* ❗ **Do not use your main Epic Games account.** Always use a secondary one.
+* ❗ TryBotX is for **personal, educational, and entertainment purposes** only.
+* ❗ You are responsible for how you use this bot. Misuse may result in account suspension.
+
+> ⚠️ **We are not affiliated with Epic Games, Fortnite, or any official platform.**
+> This project is made by fans for non-commercial use only.
+
+---
+
+## 📜 Credits
+
+**DeviceAuthGenerator** by [xMistt](https://github.com/xMistt/DeviceAuthGenerator)
+
+* License: Apache 2.0 with Commons Clause
+* Author: Oli (xMistt)
+* Years: 2019–2021
+* No resale or commercial repackaging allowed
 
 ---
 
 ## 🛡️ License
-This project is under a custom license:
 
-You are allowed to use, modify, and share this project for personal or educational purposes only.
-
-You are not allowed to upload this project or any modified version to another public repository or website claiming ownership.
-
-You must always credit the original creator: RockyHubDev.
-
-Commercial use is strictly prohibited.
-
-The project is provided “as is”, without any warranty or guarantee.
-
-The license may be updated in the future to allow community contributions or extensions.
+* Free for personal and non-commercial use
+* Attribution required: **RockyHubDev**
+* Commercial resale or redistribution is prohibited
+* Provided “as-is” with no guarantees
+* Future versions may allow plugins/mods
 
 ---
 
-## 🚀 Future Plans
-Add mod/plugin support
+## 🔮 Coming Soon
 
-Support for synchronized emotes
-
-Live cosmetic database sync
-
-Language translation options
+* Cosmetic sync with updated databases
+* Plugin/mod system
+* Emote sync across multiple clients
+* Language support (Spanish, English, etc.)
 
 ---
 
 ## ❤️ Creator
-Created with passion and persistence by RockyHubDev
+
+Made with dedication by **RockyHubDev**
+
+---
+
+## ⭐ Support
+
+If this helped you or you like the project, give it a ⭐ to support its development!
