@@ -125,7 +125,7 @@ const DEFAULTS = {
 };
 ```
 
-* `OWNER_USERNAME` should be your Epic Games username. Only this user can control the bot using commands.
+* Next to each cosmetic is its ID, which you can find in `Fortnite-Cosmetic-IDs-main`
 
 ---
 
