@@ -1,4 +1,8 @@
-# TryBotX
+<p align="left">
+  <img src="assets/Logo-L.png" alt="TryBotX" width="500">
+</p>
+
+---
 
 **TryBotX** is a customizable Fortnite cosmetic bot that can be used for fun or personal projects. This bot allows you to change skins, backpacks, pickaxes, gliders, emotes, and level using official Fortnite cosmetic IDs. It is designed to run using your own Epic Games account configured as a bot.
 
